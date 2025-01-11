@@ -1,0 +1,1 @@
+[GET for Postman](D:\Netology\AQA\GET for Postman.jpg)
